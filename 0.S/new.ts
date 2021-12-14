@@ -1,6 +1,6 @@
 import { Car } from "./class/Car";
 import { Engine } from "./class/Engine";
-import { Fuels } from "./class/Fuels";
+import { CarFuel } from "./class/CarFuel";
 import { MusicPlayer } from "./class/MusicPlayer";
 
 // When you see <cast>variable this is a "cast" of a variable, explicitly telling the code what the type of this variable will be.
@@ -19,13 +19,13 @@ const audioElement = <HTMLAudioElement>document.querySelector('#car-music');
 
 // default value max 100 fuel 0 mile 10
 let engine = new Engine(false);
-let fuels = new Fuels(100, 0, 10);
+let carFuel = new CarFuel(100, 0, 10);
 let musicPlayer = new MusicPlayer(0, 50);
 
-let car = new Car(engine, fuels, musicPlayer);
+let car = new Car(engine, carFuel, musicPlayer);
 
 musicToggleElement.addEventListener('click', () => {
-    if(car.musicPlayer.musicLevel === 0) {
+    if (car.musicPlayer.musicLevel === 0) {
         car.musicPlayer.turnMusicOn();
         musicSliderElement.value = car.musicPlayer.musicLevel.toString();
         musicToggleElement.innerText = 'Turn music off';
@@ -47,7 +47,7 @@ musicSliderElement.addEventListener('input', (event) => {
 });
 
 engineToggleElement.addEventListener('click', () => {
-    if(car.engine.engineStatus) {
+    if (car.engine.engineStatus) {
         car.engine.turnEngineOff();
         engineToggleElement.innerText = 'Turn engine on';
         return;
@@ -59,8 +59,8 @@ engineToggleElement.addEventListener('click', () => {
 addFuelForm.addEventListener('submit', (event) => {
     event.preventDefault();
 
-    car.fuels.addFuel(Number(addFuelInput.value));
-    fuelLevelElement.innerText = car.fuels.fuel.toString();
+    car.carFuel.addFuel(Number(addFuelInput.value));
+    fuelLevelElement.innerText = car.carFuel.toString();
 });
 
 setInterval(() => {
@@ -70,9 +70,9 @@ setInterval(() => {
     // this <cast> will only tell TypeScript that the value is a string, but the actual variable in JS is not changed in any way: it is in reality still a number
     milesElement.innerText = <string><unknown>(car.miles);
     // This .toString() will actually convert the value in JavaScript from an integer to a string
-    fuelLevelElement.innerText = car.fuels.fuel.toString();
+    fuelLevelElement.innerText = car.carFuel.fuel.toString();
 
-    if(car.musicPlayer.musicLevel === 0) {
+    if (car.musicPlayer.musicLevel === 0) {
         audioElement.pause();
     } else {
         audioElement.play();

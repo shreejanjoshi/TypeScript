@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var Car_1 = require("./class/Car");
 var Engine_1 = require("./class/Engine");
-var Fuels_1 = require("./class/Fuels");
+var CarFuel_1 = require("./class/CarFuel");
 var MusicPlayer_1 = require("./class/MusicPlayer");
 // When you see <cast>variable this is a "cast" of a variable, explicitly telling the code what the type of this variable will be.
 // This is sometimes needed when a default JS function does not return a precise enough Type.
@@ -18,9 +18,9 @@ var milesElement = document.querySelector('#miles-value');
 var audioElement = document.querySelector('#car-music');
 // default value max 100 fuel 0 mile 10
 var engine = new Engine_1.Engine(false);
-var fuels = new Fuels_1.Fuels(100, 0, 10);
+var carFuel = new CarFuel_1.CarFuel(100, 0, 10);
 var musicPlayer = new MusicPlayer_1.MusicPlayer(0, 50);
-var car = new Car_1.Car(engine, fuels, musicPlayer);
+var car = new Car_1.Car(engine, carFuel, musicPlayer);
 musicToggleElement.addEventListener('click', function () {
     if (car.musicPlayer.musicLevel === 0) {
         car.musicPlayer.turnMusicOn();
@@ -50,8 +50,8 @@ engineToggleElement.addEventListener('click', function () {
 });
 addFuelForm.addEventListener('submit', function (event) {
     event.preventDefault();
-    car.fuels.addFuel(Number(addFuelInput.value));
-    fuelLevelElement.innerText = car.fuels.fuel.toString();
+    car.carFuel.addFuel(Number(addFuelInput.value));
+    fuelLevelElement.innerText = car.carFuel.toString();
 });
 setInterval(function () {
     car.drive();
@@ -59,7 +59,7 @@ setInterval(function () {
     // this <cast> will only tell TypeScript that the value is a string, but the actual variable in JS is not changed in any way: it is in reality still a number
     milesElement.innerText = (car.miles);
     // This .toString() will actually convert the value in JavaScript from an integer to a string
-    fuelLevelElement.innerText = car.fuels.fuel.toString();
+    fuelLevelElement.innerText = car.carFuel.fuel.toString();
     if (car.musicPlayer.musicLevel === 0) {
         audioElement.pause();
     }

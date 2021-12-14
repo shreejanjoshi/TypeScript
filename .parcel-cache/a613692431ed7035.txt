@@ -1,4 +1,4 @@
-16079
+16089
 64C:\xampp\htdocs\becode\TypeScript\node_modules\buffer\index.d.ts132839437174407136 0
 82C:\xampp\htdocs\becode\TypeScript\node_modules\es-abstract\2020\BigIntBitwiseOp.js132839437192697093 0
 66C:\xampp\htdocs\becode\TypeScript\node_modules\is-symbol\.eslintrc132839437166031856 0
@@ -10,7 +10,7 @@
 94C:\xampp\htdocs\becode\TypeScript\node_modules\@swc\helpers\lib\_apply_decorated_descriptor.js132839437177567126 0
 87C:\xampp\htdocs\becode\TypeScript\node_modules\highlight.js\styles\shades-of-purple.css132839437192867091 0
 100C:\xampp\htdocs\becode\TypeScript\node_modules\msgpackr-extract\prebuilds\darwin-x64\node.abi83.node132839437191687100 0
-39C:\xampp\htdocs\becode\TypeScript\.idea132839456087625819 1
+39C:\xampp\htdocs\becode\TypeScript\.idea132839673682416909 1
 59C:\xampp\htdocs\becode\TypeScript\node_modules\highlight.js132839437201527081 1
 56C:\xampp\htdocs\becode\TypeScript\node_modules\aws-sign2132839437166971876 1
 80C:\xampp\htdocs\becode\TypeScript\node_modules\highlight.js\styles\hopscotch.css132839437190527095 0
@@ -21,7 +21,7 @@
 79C:\xampp\htdocs\becode\TypeScript\node_modules\electron-to-chromium\versions.js132839437180457122 0
 53C:\xampp\htdocs\becode\TypeScript\node_modules\@types132839437146918452 1
 66C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\es\function132839437211437053 1
-37C:\xampp\htdocs\becode\TypeScript\0.S132839462940754771 1
+37C:\xampp\htdocs\becode\TypeScript\0.S132839653792561333 1
 76C:\xampp\htdocs\becode\TypeScript\node_modules\public-encrypt\test\1024.priv132839437180187123 0
 56C:\xampp\htdocs\becode\TypeScript\node_modules\data-urls132839437168051852 1
 69C:\xampp\htdocs\becode\TypeScript\node_modules\string-hash\.npmignore132839437168691850 0
@@ -62,7 +62,7 @@
 71C:\xampp\htdocs\becode\TypeScript\node_modules\to-regex-range\README.md132839437167831856 0
 57C:\xampp\htdocs\becode\TypeScript\node_modules\source-map132839437183467119 1
 60C:\xampp\htdocs\becode\TypeScript\node_modules\.bin\jake.cmd132839437292695222 0
-38C:\xampp\htdocs\becode\TypeScript\dist132839445208083659 1
+38C:\xampp\htdocs\becode\TypeScript\dist132839490116919660 1
 70C:\xampp\htdocs\becode\TypeScript\node_modules\lodash\fp\forInRight.js132839437202827069 0
 73C:\xampp\htdocs\becode\TypeScript\node_modules\@parcel\compressor-raw\lib132839437222171431 1
 93C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-merge-longhand\dist\lib\mergeValues.js132839437185077112 0
@@ -428,6 +428,7 @@
 69C:\xampp\htdocs\becode\TypeScript\node_modules\ajv\dist\ajv.bundle.js132839437183997115 0
 63C:\xampp\htdocs\becode\TypeScript\node_modules\es-abstract\2017132839437209737052 1
 105C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-modules-extract-imports\node_modules\color-convert132839437174187148 1
+43C:\xampp\htdocs\becode\TypeScript\0.S\Class132839653792913896 1
 94C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\modules\es.typed-array.float64-array.js132839437202917069 0
 71C:\xampp\htdocs\becode\TypeScript\node_modules\xxhash-wasm\package.json132839437180407122 0
 60C:\xampp\htdocs\becode\TypeScript\node_modules\async-limiter132839437171811845 1
@@ -5047,6 +5048,7 @@
 73C:\xampp\htdocs\becode\TypeScript\node_modules\path-is-inside\LICENSE.txt132839437164051866 0
 72C:\xampp\htdocs\becode\TypeScript\node_modules\stream-browserify\.github132839437183487117 1
 71C:\xampp\htdocs\becode\TypeScript\node_modules\lodash\fp\functionsIn.js132839437202967071 0
+50C:\xampp\htdocs\becode\TypeScript\0.S\Class\Car.ts132839653792723894 0
 102C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-modules-extract-imports\node_modules\source-map132839437182947115 1
 99C:\xampp\htdocs\becode\TypeScript\node_modules\jsdom\lib\jsdom\living\svg\SVGAnimatedString-impl.js132839437201907076 0
 83C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\internals\create-property.js132839437197197082 0
@@ -5961,6 +5963,7 @@
 78C:\xampp\htdocs\becode\TypeScript\node_modules\caniuse-lite\data\regions\LB.js132839437202697076 0
 75C:\xampp\htdocs\becode\TypeScript\node_modules\posthtml-parser\xo.config.js132839437182107118 0
 85C:\xampp\htdocs\becode\TypeScript\node_modules\posthtml-parser\test\test-core.spec.ts132839437184867110 0
+53C:\xampp\htdocs\becode\TypeScript\0.S\Class\Engine.ts132839653792793911 0
 73C:\xampp\htdocs\becode\TypeScript\node_modules\@parcel\core\src\Parcel.js132839437212217054 0
 85C:\xampp\htdocs\becode\TypeScript\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js132839437180817122 0
 76C:\xampp\htdocs\becode\TypeScript\node_modules\posthtml-parser\dist\index.js132839437181427122 0
@@ -6235,6 +6238,7 @@
 93C:\xampp\htdocs\becode\TypeScript\node_modules\caniuse-lite\data\features\css-text-spacing.js132839437197527086 0
 93C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-modules-values\node_modules\source-map132839437182977123 1
 66C:\xampp\htdocs\becode\TypeScript\node_modules\hmac-drbg\README.md132839437166301855 0
+52C:\xampp\htdocs\becode\TypeScript\0.S\Class\Fuels.ts132839653792643949 0
 94C:\xampp\htdocs\becode\TypeScript\node_modules\@parcel\package-manager\src\NodeResolverSync.js132839437208627054 0
 108C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-modules-values\node_modules\supports-color\browser.js132839437164211861 0
 106C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-modules-values\node_modules\supports-color\index.js132839437166431856 0
@@ -6527,6 +6531,7 @@
 111C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-modules-local-by-default\node_modules\source-map\LICENSE132839437166651861 0
 116C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-modules-local-by-default\node_modules\source-map\package.json132839437163011864 0
 119C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-modules-local-by-default\node_modules\source-map\source-map.d.ts132839437182717116 0
+52C:\xampp\htdocs\becode\TypeScript\0.S\Class\Fuels.js132839639651636398 0
 79C:\xampp\htdocs\becode\TypeScript\node_modules\es-abstract\2021\ToDateString.js132839437207747059 0
 84C:\xampp\htdocs\becode\TypeScript\node_modules\@babel\core\lib\config\files\types.js132839437184087114 0
 71C:\xampp\htdocs\becode\TypeScript\node_modules\pako\lib\zlib\inflate.js132839437182407116 0
@@ -6550,7 +6555,7 @@
 116C:\xampp\htdocs\becode\TypeScript\node_modules\postcss-modules-local-by-default\node_modules\postcss\CONTRIBUTING.md132839437212287047 0
 73C:\xampp\htdocs\becode\TypeScript\node_modules\has-tostringtag\test\shams132839437167801853 1
 70C:\xampp\htdocs\becode\TypeScript\node_modules\fast-deep-equal\LICENSE132839437162701864 0
-44C:\xampp\htdocs\becode\TypeScript\0.S\old.js132839432181437681 0
+44C:\xampp\htdocs\becode\TypeScript\0.S\old.js132839649590817352 0
 67C:\xampp\htdocs\becode\TypeScript\node_modules\@types\node\dns.d.ts132839437185257108 0
 75C:\xampp\htdocs\becode\TypeScript\node_modules\css-tree\lib\parser\index.js132839437192037093 0
 104C:\xampp\htdocs\becode\TypeScript\node_modules\jsdom\lib\jsdom\living\generated\HTMLOptionsCollection.js132839437195937087 0
@@ -7503,7 +7508,6 @@
 78C:\xampp\htdocs\becode\TypeScript\node_modules\caniuse-lite\data\regions\ER.js132839437198997082 0
 70C:\xampp\htdocs\becode\TypeScript\node_modules\internal-slot\.eslintrc132839437166051863 0
 66C:\xampp\htdocs\becode\TypeScript\node_modules\oauth-sign\index.js132839437164021871 0
-44C:\xampp\htdocs\becode\TypeScript\0.S\car.ts132839455196742939 0
 67C:\xampp\htdocs\becode\TypeScript\node_modules\oauth-sign\README.md132839437167441852 0
 92C:\xampp\htdocs\becode\TypeScript\node_modules\@babel\types\lib\constants\generated\index.js132839437186817128 0
 61C:\xampp\htdocs\becode\TypeScript\node_modules\nwsapi\LICENSE132839437163751864 0
@@ -7785,7 +7789,7 @@
 74C:\xampp\htdocs\becode\TypeScript\node_modules\msgpackr\tests\example.json132839437186067109 0
 94C:\xampp\htdocs\becode\TypeScript\node_modules\http-proxy-middleware\dist\handlers\public.d.ts132839437187217111 0
 75C:\xampp\htdocs\becode\TypeScript\node_modules\msgpackr\tests\example2.json132839437186357104 0
-60C:\xampp\htdocs\becode\TypeScript\dist\index.0ba38d56.js.map132839445206293659 0
+60C:\xampp\htdocs\becode\TypeScript\dist\index.0ba38d56.js.map132839490116919660 0
 83C:\xampp\htdocs\becode\TypeScript\node_modules\connect\node_modules\debug\README.md132839437166661861 0
 75C:\xampp\htdocs\becode\TypeScript\node_modules\msgpackr\tests\example3.json132839437186507105 0
 78C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\stable\object\assign.js132839437193107096 0
@@ -12110,6 +12114,7 @@
 76C:\xampp\htdocs\becode\TypeScript\node_modules\call-bind\.github\FUNDING.yml132839437180407122 0
 93C:\xampp\htdocs\becode\TypeScript\node_modules\elliptic\lib\elliptic\precomputed\secp256k1.js132839437181617116 0
 83C:\xampp\htdocs\becode\TypeScript\node_modules\elliptic\lib\elliptic\eddsa\index.js132839437178207125 0
+44C:\xampp\htdocs\becode\TypeScript\0.S\new.ts132839653792479323 0
 79C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\stable\weak-set\index.js132839437208907058 0
 81C:\xampp\htdocs\becode\TypeScript\node_modules\elliptic\lib\elliptic\eddsa\key.js132839437180197119 0
 80C:\xampp\htdocs\becode\TypeScript\node_modules\elliptic\lib\elliptic\ec\index.js132839437176557133 0
@@ -13889,7 +13894,7 @@
 77C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\features\array\join.js132839437210037063 0
 86C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\features\array\last-index-of.js132839437210247050 0
 83C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\features\array\last-index.js132839437210297055 0
-48C:\xampp\htdocs\becode\TypeScript\0.S\index.html132839432181437681 0
+48C:\xampp\htdocs\becode\TypeScript\0.S\index.html132839653792561333 0
 76C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\features\array\map.js132839437210757051 0
 65C:\xampp\htdocs\becode\TypeScript\node_modules\bn.js\package.json132839437168291850 0
 75C:\xampp\htdocs\becode\TypeScript\node_modules\core-js\features\array\of.js132839437211827069 0
@@ -15111,7 +15116,7 @@
 103C:\xampp\htdocs\becode\TypeScript\node_modules\@swc\helpers\lib\_class_static_private_field_spec_set.js132839437185387116 0
 80C:\xampp\htdocs\becode\TypeScript\node_modules\@swc\helpers\lib\_create_class.js132839437185867113 0
 96C:\xampp\htdocs\becode\TypeScript\node_modules\@swc\helpers\lib\_define_enumerable_properties.js132839437186707106 0
-53C:\xampp\htdocs\becode\TypeScript\.idea\workspace.xml132839456087615779 0
+53C:\xampp\htdocs\becode\TypeScript\.idea\workspace.xml132839673682406916 0
 71C:\xampp\htdocs\becode\TypeScript\node_modules\@swc\helpers\lib\_get.js132839437187137107 0
 84C:\xampp\htdocs\becode\TypeScript\node_modules\@swc\helpers\lib\_get_prototype_of.js132839437187317109 0
 66C:\xampp\htdocs\becode\TypeScript\node_modules\@parcel\packager-js132839437196947081 1
@@ -16066,15 +16071,20 @@
 57C:\xampp\htdocs\becode\TypeScript\node_modules\.bin\which132839437292715218 0
 55C:\xampp\htdocs\becode\TypeScript\dist\car.e6bef598.png132839445206253653 0
 60C:\xampp\htdocs\becode\TypeScript\dist\carmusic.0b91f432.wav132839445208073670 0
-56C:\xampp\htdocs\becode\TypeScript\dist\index.0ba38d56.js132839445206253653 0
+56C:\xampp\htdocs\becode\TypeScript\dist\index.0ba38d56.js132839490116879660 0
 48C:\xampp\htdocs\becode\TypeScript\4.D\index.html132839432181507669 0
 44C:\xampp\htdocs\becode\TypeScript\4.D\old.ts132839432181507669 0
 48C:\xampp\htdocs\becode\TypeScript\3.I\index.html132839432181487665 0
 44C:\xampp\htdocs\becode\TypeScript\2.L\old.js132839432181477672 0
 44C:\xampp\htdocs\becode\TypeScript\2.L\old.ts132839432181477672 0
 47C:\xampp\htdocs\becode\TypeScript\2.L\readme.md132839432181487665 0
-44C:\xampp\htdocs\becode\TypeScript\0.S\Car.js132839462940754771 0
 50C:\xampp\htdocs\becode\TypeScript\0.S\carmusic.wav132839432181427686 0
+44C:\xampp\htdocs\becode\TypeScript\0.S\new.js132839667336246201 0
 44C:\xampp\htdocs\becode\TypeScript\0.S\old.ts132839432181447679 0
 47C:\xampp\htdocs\becode\TypeScript\0.S\readme.md132839432181447679 0
+50C:\xampp\htdocs\becode\TypeScript\0.S\Class\Car.js132839653818274701 0
+53C:\xampp\htdocs\becode\TypeScript\0.S\Class\Engine.js132839639651576353 0
+58C:\xampp\htdocs\becode\TypeScript\0.S\Class\MusicPlayer.js132839653818214713 0
+58C:\xampp\htdocs\becode\TypeScript\0.S\Class\MusicPlayer.ts132839653792903898 0
+52C:\xampp\htdocs\becode\TypeScript\.idea\compiler.xml132839490069555232 0
 47C:\xampp\htdocs\becode\TypeScript\.idea\vcs.xml132839442145056364 0

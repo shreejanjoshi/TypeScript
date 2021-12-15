@@ -89,10 +89,10 @@ var shoppingBasket = /** @class */ (function () {
     return shoppingBasket;
 }());
 var cart = new shoppingBasket();
-cart.addProduct(new Product('Chair', 25, new FixedDiscount("fixed", 10)));
+cart.addProduct(new Product('Chair', 25, new FixedDiscount(10)));
 //cart.addProduct(new Product('Chair', 25, new Discount("fixed", -10)));
-cart.addProduct(new Product('Table', 50, new VariableDiscount("variable", 25)));
-cart.addProduct(new Product('Bed', 100, new NoDiscount("none")));
+cart.addProduct(new Product('Table', 50, new VariableDiscount(25)));
+cart.addProduct(new Product('Bed', 100, new NoDiscount()));
 var tableElement = document.querySelector('#cart tbody');
 cart.products.forEach(function (product) {
     var tr = document.createElement('tr');
